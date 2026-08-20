@@ -2,7 +2,7 @@
  
 A ideia desse desafio é ver como você pensa, como organiza um projeto do zero e como comunica suas decisões. Não existe uma única resposta certa.
  
-> **Prazo de entrega:** 7 dias corridos a partir do recebimento deste link.
+> **Prazo de entrega:** 10 dias corridos a partir do recebimento deste link.
  
 ---
  
